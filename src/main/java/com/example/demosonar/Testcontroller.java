@@ -9,12 +9,10 @@ public class Testcontroller {
 	
 	@RequestMapping("/hi")
 	public String getmethod() {
-		System.out.println("sfsfsf");
-		System.out.println("sfsfsf");
-		System.out.println("sfsfsf");
-		System.out.println("sfsfsf");
-		System.out.println("sfsfsf");
-		
+		System.out.println("11111");
+		System.out.println("11111");
+		System.out.println("11111");
+		System.out.println("22222");
 		return "success";
 		
 		

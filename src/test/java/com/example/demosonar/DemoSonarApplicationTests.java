@@ -12,13 +12,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoSonarApplicationTests {
 
-/*	@Test
+	@Test
 	public void contextLoads() {
 	
 		Testcontroller t=new Testcontroller();
 		String getmethod = t.getmethod();
 	    assertEquals("success",getmethod);
-	}*/
+	}
 	@Test
 	public void testservice() {
 		TestService ts=new TestService();
