@@ -15,7 +15,9 @@ public class DemoSonarApplicationTests {
 	@Test
 	public void contextLoads() {
 	
-		Testcontroller t=new Testcontroller();
+		
+//jfjfjfj
+Testcontroller t=new Testcontroller();
 		String getmethod = t.getmethod();
 	    assertEquals("success",getmethod);
 	}
