@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>DemoTestCases</groupId>
-	<artifactId>DemoSonar111</artifactId>
+	<artifactId>DemoSonar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
